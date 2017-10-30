@@ -34,17 +34,17 @@
   <EXT_INT0><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>211</LINE></EXT_INT0>
   <EXT_INT1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>236</LINE></EXT_INT1>
   <DEFAULT><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>106</LINE></DEFAULT>
-  <lcd_command><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1176</LINE></lcd_command>
-  <lcd_wait><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1206</LINE></lcd_wait>
-  <sleep_5ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1244</LINE></sleep_5ms>
-  <sleep_1ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1232</LINE></sleep_1ms>
-  <lcd_data><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1189</LINE></lcd_data>
+  <lcd_command><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1225</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1255</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1293</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1281</LINE></sleep_1ms>
+  <lcd_data><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1238</LINE></lcd_data>
   <main><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>329</LINE></main>
   <clear_name><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>345</LINE></clear_name>
   <go_on_7><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>352</LINE></go_on_7>
   <get_max_num_station><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>358</LINE></get_max_num_station>
-  <sleep_100ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1257</LINE></sleep_100ms>
-  <GetKeypadNumInput><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>966</LINE></GetKeypadNumInput>
+  <sleep_100ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1314</LINE></sleep_100ms>
+  <GetKeypadNumInput><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>999</LINE></GetKeypadNumInput>
   <end_check1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>376</LINE></end_check1>
   <error1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>383</LINE></error1>
   <end_get_max_num_station><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>410</LINE></end_get_max_num_station>
@@ -66,7 +66,7 @@
   <letter_r><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>520</LINE></letter_r>
   <end_names><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>563</LINE></end_names>
   <get_times><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>572</LINE></get_times>
-  <display_station_number><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1057</LINE></display_station_number>
+  <display_station_number><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1106</LINE></display_station_number>
   <step_end2><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>598</LINE></step_end2>
   <go_on3><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>600</LINE></go_on3>
   <get_numbers><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>602</LINE></get_numbers>
@@ -79,49 +79,54 @@
   <get_stop_time><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>677</LINE></get_stop_time>
   <error4><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>704</LINE></error4>
   <end_get_stop_time><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>716</LINE></end_get_stop_time>
-  <sleep_1s><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1279</LINE></sleep_1s>
-  <mainloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>776</LINE></mainloop>
-  <stop_state1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>781</LINE></stop_state1>
-  <running_state><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>783</LINE></running_state>
-  <stop_state><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>819</LINE></stop_state>
-  <normal_go_on><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>829</LINE></normal_go_on>
-  <go_to_first><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>805</LINE></go_to_first>
-  <decide_stop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>807</LINE></decide_stop>
-  <no_stop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>814</LINE></no_stop>
-  <display_station_name><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1082</LINE></display_station_name>
-  <mot_on><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>844</LINE></mot_on>
-  <go_on10><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>847</LINE></go_on10>
-  <update_leds><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>873</LINE></update_leds>
-  <colloop1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>878</LINE></colloop1>
-  <delay1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>883</LINE></delay1>
-  <nextcol1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>902</LINE></nextcol1>
-  <rowloop1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>892</LINE></rowloop1>
-  <skipconv1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>898</LINE></skipconv1>
-  <convert1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>919</LINE></convert1>
-  <go_on_5><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>931</LINE></go_on_5>
-  <symbols1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>924</LINE></symbols1>
-  <need_halt><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>928</LINE></need_halt>
-  <go_on_6><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>944</LINE></go_on_6>
-  <sleep_500ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1271</LINE></sleep_500ms>
-  <run_again><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>967</LINE></run_again>
-  <colloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>970</LINE></colloop>
-  <delay><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>975</LINE></delay>
-  <nextcol><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>994</LINE></nextcol>
-  <rowloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>984</LINE></rowloop>
-  <skipconv><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>990</LINE></skipconv>
-  <convert><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1012</LINE></convert>
-  <letters><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1025</LINE></letters>
-  <symbols><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1029</LINE></symbols>
-  <convert_end><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1041</LINE></convert_end>
-  <star><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1036</LINE></star>
-  <zero><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1039</LINE></zero>
-  <equal_ten><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1067</LINE></equal_ten>
-  <not_last><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1122</LINE></not_last>
-  <if_last><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1138</LINE></if_last>
-  <next_display><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1140</LINE></next_display>
-  <end_display><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1147</LINE></end_display>
-  <lcd_wait_loop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1212</LINE></lcd_wait_loop>
-  <delayloop_1ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1237</LINE></delayloop_1ms>
-  <sleep_10ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1252</LINE></sleep_10ms>
+  <sleep_1s><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1336</LINE></sleep_1s>
+  <mainloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>777</LINE></mainloop>
+  <sleep_50ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1306</LINE></sleep_50ms>
+  <no_change1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>792</LINE></no_change1>
+  <no_change2><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>807</LINE></no_change2>
+  <stop_state1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>811</LINE></stop_state1>
+  <running_state><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>813</LINE></running_state>
+  <stop_state><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>851</LINE></stop_state>
+  <normal_go_on><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>861</LINE></normal_go_on>
+  <go_to_first><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>837</LINE></go_to_first>
+  <decide_stop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>839</LINE></decide_stop>
+  <no_stop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>846</LINE></no_stop>
+  <display_station_name><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1131</LINE></display_station_name>
+  <mot_on><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>876</LINE></mot_on>
+  <go_on10><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>879</LINE></go_on10>
+  <update_leds><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>905</LINE></update_leds>
+  <colloop1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>910</LINE></colloop1>
+  <delay1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>915</LINE></delay1>
+  <nextcol1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>934</LINE></nextcol1>
+  <rowloop1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>924</LINE></rowloop1>
+  <skipconv1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>930</LINE></skipconv1>
+  <convert1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>951</LINE></convert1>
+  <go_on_5><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>963</LINE></go_on_5>
+  <symbols1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>956</LINE></symbols1>
+  <need_halt><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>960</LINE></need_halt>
+  <go_on_6><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>977</LINE></go_on_6>
+  <sleep_500ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1328</LINE></sleep_500ms>
+  <run_again><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1000</LINE></run_again>
+  <delayloop_1ms1><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1004</LINE></delayloop_1ms1>
+  <no_halt><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1016</LINE></no_halt>
+  <colloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1019</LINE></colloop>
+  <delay><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1024</LINE></delay>
+  <nextcol><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1043</LINE></nextcol>
+  <rowloop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1033</LINE></rowloop>
+  <skipconv><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1039</LINE></skipconv>
+  <convert><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1061</LINE></convert>
+  <letters><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1074</LINE></letters>
+  <symbols><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1078</LINE></symbols>
+  <convert_end><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1090</LINE></convert_end>
+  <star><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1085</LINE></star>
+  <zero><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1088</LINE></zero>
+  <equal_ten><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1116</LINE></equal_ten>
+  <not_last><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1171</LINE></not_last>
+  <if_last><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1187</LINE></if_last>
+  <next_display><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1189</LINE></next_display>
+  <end_display><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1196</LINE></end_display>
+  <lcd_wait_loop><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1261</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1286</LINE></delayloop_1ms>
+  <sleep_10ms><FILE>C:\Users\Lee\Documents\Atmel Studio\7.0\cs2121project\main.asm</FILE><LINE>1301</LINE></sleep_10ms>
  </LABELS>
 </ASSEMBLER_INFO>

@@ -811,6 +811,8 @@ main: ; main - does nothing
 		stop_state1:
 		   jmp stop_state
 		running_state:
+		    clr blink
+			out PORTB, blink
 			ldi zl, low(TimeToNext)
 	        ldi zh, high(TimeToNext)
 			mov temp, station
@@ -965,6 +967,7 @@ main: ; main - does nothing
 				    ldi temp, 0
 				    sts OCR3BL, temp
 					call sleep_500ms
+					clr halt_counter
 				    call GetKeypadNumInput
 					call sleep_100ms
 					call sleep_100ms
@@ -995,6 +998,22 @@ main: ; main - does nothing
 ; keeps scanning the keypad to find which key is pressed.
 GetKeypadNumInput:
 	run_again:
+	//call sleep_1ms
+	ldi r25, high(1996)
+	ldi r24, low(1996)
+	delayloop_1ms1:
+		sbiw r25:r24, 1
+		brne delayloop_1ms1
+	mov temp, halt
+	cpi temp, 1
+	brne no_halt
+	    inc halt_counter
+		mov temp, halt_counter
+		cpi temp, 17
+		brne no_halt
+		    com blink
+		    out PORTB, blink 
+	no_halt:
 	ldi mask, INITCOLMASK ; initial column mask
 	clr col ; initial column
 	colloop:

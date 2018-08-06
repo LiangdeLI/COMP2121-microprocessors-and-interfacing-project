@@ -1,2 +1,2 @@
 # cs2121project
-This repository will contain the project of 17 semester2 COMP2121 Microprocessors and Interfacing.
+This repository will contain the project of 2017 semester2 COMP2121 Microprocessors and Interfacing.
